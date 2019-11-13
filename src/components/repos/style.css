@@ -1,0 +1,19 @@
+.repos{
+    display: block;
+    width: 100%;
+    text-align: left;
+    border: 4px solid rgb(4, 207, 38);
+    background-color: rgb(226, 224, 224);
+    max-width: 40%;
+    border-radius: 20px ;
+}
+.repos h4{
+    margin-right: 3%;
+    padding: 10px 5px 5px 10px;
+    text-align: left;
+}
+.repos_container{
+    padding: 10px 0 10px 0 ;
+    display: flex;
+    justify-content: center;
+}

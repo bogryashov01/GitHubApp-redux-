@@ -1,0 +1,12 @@
+.mr-auto .navbar .navbar-expand-lg .navbar-light .bg-light{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+.img{
+    max-width: 50px;
+    max-height: 50px;
+}
+.navbar-collapse .collapse{
+    margin-left: 500px;
+}
